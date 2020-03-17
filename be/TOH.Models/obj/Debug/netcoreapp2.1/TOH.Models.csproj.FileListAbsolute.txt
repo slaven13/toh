@@ -1,0 +1,17 @@
+C:\Users\Slaven\source\repos\TOH\TOH.Models\bin\Debug\netcoreapp2.1\TOH.Models.deps.json
+C:\Users\Slaven\source\repos\TOH\TOH.Models\bin\Debug\netcoreapp2.1\TOH.Models.dll
+C:\Users\Slaven\source\repos\TOH\TOH.Models\bin\Debug\netcoreapp2.1\TOH.Models.pdb
+C:\Users\Slaven\source\repos\TOH\TOH.Models\obj\Debug\netcoreapp2.1\TOH.Models.csprojAssemblyReference.cache
+C:\Users\Slaven\source\repos\TOH\TOH.Models\obj\Debug\netcoreapp2.1\TOH.Models.csproj.CoreCompileInputs.cache
+C:\Users\Slaven\source\repos\TOH\TOH.Models\obj\Debug\netcoreapp2.1\TOH.Models.AssemblyInfoInputs.cache
+C:\Users\Slaven\source\repos\TOH\TOH.Models\obj\Debug\netcoreapp2.1\TOH.Models.AssemblyInfo.cs
+C:\Users\Slaven\source\repos\TOH\TOH.Models\obj\Debug\netcoreapp2.1\TOH.Models.dll
+C:\Users\Slaven\source\repos\TOH\TOH.Models\obj\Debug\netcoreapp2.1\TOH.Models.pdb
+D:\Projects\source\repos\TOH\TOH.Models\bin\Debug\netcoreapp2.1\TOH.Models.deps.json
+D:\Projects\source\repos\TOH\TOH.Models\bin\Debug\netcoreapp2.1\TOH.Models.dll
+D:\Projects\source\repos\TOH\TOH.Models\bin\Debug\netcoreapp2.1\TOH.Models.pdb
+D:\Projects\source\repos\TOH\TOH.Models\obj\Debug\netcoreapp2.1\TOH.Models.csprojAssemblyReference.cache
+D:\Projects\source\repos\TOH\TOH.Models\obj\Debug\netcoreapp2.1\TOH.Models.AssemblyInfoInputs.cache
+D:\Projects\source\repos\TOH\TOH.Models\obj\Debug\netcoreapp2.1\TOH.Models.AssemblyInfo.cs
+D:\Projects\source\repos\TOH\TOH.Models\obj\Debug\netcoreapp2.1\TOH.Models.dll
+D:\Projects\source\repos\TOH\TOH.Models\obj\Debug\netcoreapp2.1\TOH.Models.pdb
